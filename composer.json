@@ -1,0 +1,23 @@
+{
+    "name": "pietrantonio91/floware",
+    "description": "Floware: manage steps with conditions.",
+    "keywords": ["pipeline", "steps", "stepper", "sequential", "conditional", "condition"],
+    "homepage": "https://alessandropietrantonio.it",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2.0"
+    },
+    "authors": [
+        {
+            "name": "Alessandro Pietrantonio",
+            "email": "pietrantonio.alessandro@gmail.com",
+            "homepage": "https://alessandropietrantonio.it"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pietrantonio\\Floware\\": "src"
+        }
+    }
+}
